@@ -1,0 +1,2 @@
+data/image/80.jpg data/mask/80.jpg
+data/image/95.jpg data/mask/95.jpg

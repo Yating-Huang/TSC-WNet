@@ -1,0 +1,7 @@
+data/image/10.jpg data/mask/10.jpg
+data/image/36.jpg data/mask/36.jpg
+data/image/54.jpg data/mask/54.jpg
+data/image/64.jpg data/mask/64.jpg
+data/image/74.jpg data/mask/74.jpg
+data/image/302.jpg data/mask/302.jpg
+data/image/344.jpg data/mask/344.jpg

@@ -1,0 +1,7 @@
+data/image/10.jpg 0
+data/image/36.jpg 2
+data/image/54.jpg 1
+data/image/64.jpg 1
+data/image/74.jpg 0
+data/image/302.jpg 1
+data/image/344.jpg 2

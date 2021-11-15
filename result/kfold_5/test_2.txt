@@ -1,0 +1,2 @@
+data/image/64.jpg 1
+data/image/74.jpg 0
