@@ -14,7 +14,7 @@ Ubuntu 16.04+pycharm+python3.6+pytorch1.7.1
 Clone the repository:
 ```
 git clone https://github.com/Yating-Huang/TSC-WNet.git
-cd TU-Net
+cd TSC-WNet
 ```
 ## HOW TO RUN:
 The only thing you should do is enter the data/image.txt and correct the path of the datasets.
