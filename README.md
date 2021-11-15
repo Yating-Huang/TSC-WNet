@@ -21,10 +21,7 @@ The only thing you should do is enter the data/image.txt and correct the path of
 then run ~
 example:
 ```
----classification---
 python kfold_class.py 
----segmentation---
-python kfold_seg.py 
 ```
 ### best_model folder:
 After training,the saved model is in this folder.
