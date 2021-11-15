@@ -1,5 +1,5 @@
 # Tongue Size and Shape Classification Fusing Segmentation Features for Traditional Chinese Medicine Diagnosis
-by [Yating Huang](https://Yating-Huang.github.io/)*, Xuechen Li*, Siting Zheng, Zhonglian Li, Sihan Li, Linlin Shen, Changen Zhou, Zhihui Lai.(* indicates equal contribution)
+by [Yating Huang](https://Yating-Huang.github.io/)**, Xuechen Li**, Siting Zheng, Zhonglian Li, Sihan Li, Linlin Shen, Changen Zhou, Zhihui Lai.(** indicates equal contribution)
 ## Summary:
 ### Intoduction:
   This repository is for our preprint["Tongue Size and Shape Classification Fusing Segmentation Features for Traditional Chinese Medicine Diagnosis"](https://www.researchgate.net/publication/354694326_Tongue_Size_and_Shape_Classification_Fusing_Segmentation_Features_for_Traditional_Chinese_Medicine_Diagnosis)
