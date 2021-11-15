@@ -24,7 +24,7 @@ example:
 python kfold_class.py 
 ```
 ### best_model folder:
-After training,the saved model is in this folder.
+After training, the saved model is in this folder.
 
 ### the datasets:
 the public Tongue dataset
