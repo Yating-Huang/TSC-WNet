@@ -16,7 +16,7 @@ Clone the repository:
 git clone https://github.com/Yating-Huang/TSC-WNet.git
 cd TSC-WNet
 ```
-## HOW TO RUN:
+## How to run:
 The only thing you should do is enter the data/image.txt and correct the path of the datasets.
 then run ~
 example:
