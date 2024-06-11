@@ -2,7 +2,7 @@
 by [Yating Huang](https://Yating-Huang.github.io/)+, Xuechen Li+, Siting Zheng, Zhonglian Li, Sihan Li, Linlin Shen, Changen Zhou, Zhihui Lai.(+ indicates equal contribution)
 ## Summary:
 ### Intoduction:
-  This repository is for our preprint["Tongue Size and Shape Classification Fusing Segmentation Features for Traditional Chinese Medicine Diagnosis"](https://www.researchgate.net/publication/354694326_Tongue_Size_and_Shape_Classification_Fusing_Segmentation_Features_for_Traditional_Chinese_Medicine_Diagnosis)
+  This repository is for our paper["Tongue Size and Shape Classification Fusing Segmentation Features for Traditional Chinese Medicine Diagnosis"](https://link.springer.com/article/10.1007/s00521-022-08054-y)
   
 ### Framework:
 ![](https://github.com/Yating-Huang/TSC-WNet/blob/main/TSC-WNet.png)
